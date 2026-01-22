@@ -1,0 +1,401 @@
+match_id,season,venue,team1,team2,toss_winner,toss_decision,team1_runs,team1_wickets,team1_run_rate,team2_runs,team2_wickets,team2_run_rate,winner
+1.0,2016.0,M Chinnaswamy Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,167.0,8.0,8.35,183.0,9,9.15,Mumbai Indians
+2.0,2016.0,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,168.0,4.0,8.4,180.0,9,9.0,Chennai Super Kings
+3.0,2016.0,MA Chidambaram Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,146.0,-100.0,7.3,155.0,7,7.75,Royal Challengers Bangalore
+4.0,2016.0,Rajiv Gandhi Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,139.0,6.0,6.95,146.0,5,7.3,Mumbai Indians
+5.0,2016.0,MA Chidambaram Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,142.0,4.0,7.1,148.0,6,7.4,Royal Challengers Bangalore
+6.0,2016.0,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,160.0,7.0,8.0,154.0,7,7.7,Chennai Super Kings
+7.0,2016.0,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bangalore,,bat,164.0,4.0,8.2,158.0,10,7.9,Chennai Super Kings
+8.0,2016.0,Arun Jaitley Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,173.0,8.0,8.65,158.0,10,7.9,Mumbai Indians
+9.0,2016.0,Arun Jaitley Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,172.0,8.0,8.6,162.0,8,8.1,Chennai Super Kings
+10.0,2016.0,MA Chidambaram Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,143.0,4.0,7.15,134.0,4,6.7,Mumbai Indians
+11.0,2016.0,M Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,168.0,7.0,8.4,162.0,7,8.1,Chennai Super Kings
+12.0,2016.0,Rajiv Gandhi Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,144.0,4.0,7.2,133.0,10,6.65,Mumbai Indians
+13.0,2016.0,Eden Gardens,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,180.0,9.0,9.0,166.0,7,8.3,Mumbai Indians
+14.0,2016.0,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,160.0,4.0,8.0,151.0,6,7.55,Chennai Super Kings
+15.0,2016.0,Arun Jaitley Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,165.0,5.0,8.25,174.0,4,8.7,Mumbai Indians
+16.0,2016.0,Eden Gardens,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,174.0,7.0,8.7,167.0,5,8.35,Royal Challengers Bangalore
+17.0,2016.0,Eden Gardens,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,156.0,8.0,7.8,166.0,5,8.3,Chennai Super Kings
+18.0,2016.0,MA Chidambaram Stadium,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,159.0,4.0,7.95,159.0,7,7.95,Delhi Capitals
+19.0,2016.0,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,162.0,7.0,8.1,174.0,8,8.7,Mumbai Indians
+20.0,2016.0,unknown,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,168.0,9.0,8.4,160.0,7,8.0,Mumbai Indians
+21.0,,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,163.0,6.0,8.15,161.0,10,8.05,Kolkata Knight Riders
+22.0,2016.0,Wankhede Stadium,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,162.0,8.0,8.1,162.0,10,8.1,Delhi Capitals
+23.0,2016.0,M Chinnaswamy Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,195.0,4.0,9.75,180.0,6,9.0,Mumbai Indians
+24.0,2016.0,Wankhede Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,182.0,8.0,9.1,175.0,9,8.75,Chennai Super Kings
+25.0,2016.0,Arun Jaitley Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,158.0,9.0,7.9,156.0,10,7.8,Delhi Capitals
+26.0,2016.0,MA Chidambaram Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,156.0,7.0,7.8,155.0,5,7.75,Kolkata Knight Riders
+27.0,2016.0,Wankhede Stadium,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,163.0,8.0,8.15,158.0,8,,Royal Challengers Bangalore
+28.0,2016.0,Arun Jaitley Stadium,Delhi Capitals,unknown,Delhi Capitals,field,143.0,9.0,7.15,154.0,8,7.7,Chennai Super Kings
+29.0,,M Chinnaswamy Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,190.0,4.0,9.5,178.0,4,8.9,Chennai Super Kings
+30.0,2016.0,Eden Gardens,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,139.0,6.0,6.95,140.0,10,7.0,Delhi Capitals
+31.0,2016.0,Eden Gardens,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,161.0,4.0,8.05,160.0,7,8.0,Delhi Capitals
+32.0,2016.0,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,162.0,9.0,8.1,160.0,9,8.0,Kolkata Knight Riders
+33.0,2016.0,MA Chidambaram Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,134.0,8.0,6.7,139.0,7,6.95,Chennai Super Kings
+34.0,2016.0,Arun Jaitley Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,175.0,8.0,8.75,168.0,8,8.4,Chennai Super Kings
+35.0,2016.0,Eden Gardens,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,164.0,9.0,8.2,163.0,8,8.15,Mumbai Indians
+36.0,2016.0,Eden Gardens,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,143.0,6.0,7.15,145.0,4,7.25,Kolkata Knight Riders
+37.0,2016.0,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,172.0,6.0,8.6,169.0,9,8.45,Royal Challengers Bangalore
+38.0,2016.0,Eden Gardens,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,166.0,4.0,8.3,165.0,7,8.25,Mumbai Indians
+39.0,2016.0,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,143.0,8.0,7.15,150.0,4,7.5,Kolkata Knight Riders
+40.0,2016.0,N/A,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,153.0,5.0,7.65,155.0,10,7.75,Kolkata Knight Riders
+41.0,2016.0,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,143.0,8.0,7.15,135.0,8,6.75,Chennai Super Kings
+42.0,2016.0,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,133.0,5.0,6.65,138.0,5,6.9,Royal Challengers Bangalore
+43.0,2016.0,Eden Gardens,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,160.0,9.0,8.0,165.0,4,8.25,Royal Challengers Bangalore
+44.0,2016.0,Eden Gardens,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,162.0,5.0,8.1,155.0,5,7.75,Royal Challengers Bangalore
+45.0,2016.0,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,163.0,7.0,8.15,,10,8.0,Mumbai Indians
+46.0,2016.0,Rajiv Gandhi Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,164.0,6.0,8.2,165.0,9,8.25,Mumbai Indians
+47.0,2016.0,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,163.0,8.0,8.15,155.0,9,7.75,Mumbai Indians
+48.0,2016.0,Eden Gardens,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,161.0,4.0,8.05,151.0,5,7.55,Chennai Super Kings
+49.0,2016.0,Wankhede Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,188.0,4.0,9.4,196.0,4,9.8,Mumbai Indians
+50.0,2016.0,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,140.0,4.0,7.0,143.0,6,7.15,Kolkata Knight Riders
+51.0,2017.0,M Chinnaswamy Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,198.0,8.0,9.9,,4,9.15,Mumbai Indians
+52.0,2017.0,Wankhede Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,177.0,9.0,8.85,184.0,5,9.2,Chennai Super Kings
+53.0,2017.0,Rajiv Gandhi Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,154.0,6.0,7.7,148.0,4,7.4,Chennai Super Kings
+54.0,,,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,141.0,5.0,7.05,140.0,5,7.0,Chennai Super Kings
+55.0,2017.0,MA Chidambaram Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,131.0,5.0,6.55,140.0,10,7.0,Chennai Super Kings
+56.0,2017.0,M Chinnaswamy Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,188.0,5.0,9.4,174.0,10,8.7,Chennai Super Kings
+57.0,2017.0,Eden Gardens,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,171.0,5.0,8.55,177.0,10,8.85,Chennai Super Kings
+58.0,2017.0,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,179.0,7.0,8.95,167.0,7,8.35,Mumbai Indians
+59.0,2017.0,Eden Gardens,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,162.0,4.0,8.1,151.0,9,7.55,Chennai Super Kings
+60.0,2017.0,Eden Gardens,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,174.0,4.0,8.7,161.0,9,8.05,Chennai Super Kings
+61.0,2017.0,M Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,191.0,9.0,9.55,182.0,8,9.1,Mumbai Indians
+62.0,2017.0,MA Chidambaram Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,154.0,7.0,7.7,170.0,4,8.5,Chennai Super Kings
+63.0,2017.0,Arun Jaitley Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,144.0,5.0,7.2,999.0,10,7.15,Delhi Capitals
+64.0,2017.0,M Chinnaswamy Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,172.0,4.0,8.6,175.0,999,,Kolkata Knight Riders
+65.0,2017.0,Rajiv Gandhi Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,155.0,6.0,7.75,149.0,4,7.45,Chennai Super Kings
+66.0,2017.0,Arun Jaitley Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,165.0,7.0,8.25,157.0,6,7.85,Chennai Super Kings
+67.0,2017.0,Wankhede Stadium,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,177.0,7.0,8.85,172.0,10,8.6,Royal Challengers Bangalore
+68.0,2017.0,Arun Jaitley Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,146.0,9.0,7.3,136.0,7,6.8,Chennai Super Kings
+69.0,2017.0,Arun Jaitley Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,160.0,4.0,8.0,163.0,8,8.15,Royal Challengers Bangalore
+70.0,2017.0,MA Chidambaram Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,148.0,8.0,7.4,151.0,5,7.55,Kolkata Knight Riders
+71.0,2017.0,Wankhede Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,176.0,9.0,8.8,166.0,8,8.3,Chennai Super Kings
+72.0,2017.0,Wankhede Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,165.0,4.0,8.25,182.0,-100,9.1,Mumbai Indians
+73.0,2017.0,Eden Gardens,,Royal Challengers Bangalore,Royal Challengers Bangalore,field,160.0,7.0,8.0,169.0,9,8.45,Royal Challengers Bangalore
+74.0,2017.0,Arun Jaitley Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,155.0,4.0,7.75,143.0,4,7.15,Chennai Super Kings
+75.0,2017.0,M Chinnaswamy Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,159.0,8.0,7.95,158.0,5,7.9,Kolkata Knight Riders
+76.0,2017.0,Wankhede Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,155.0,,7.75,171.0,7,8.55,Mumbai Indians
+77.0,2017.0,Eden Gardens,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,161.0,6.0,8.05,173.0,6,8.65,Chennai Super Kings
+78.0,2017.0,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,169.0,6.0,8.45,176.0,6,8.8,Chennai Super Kings
+79.0,2017.0,M Chinnaswamy Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,177.0,6.0,8.85,167.0,9,8.35,Chennai Super Kings
+80.0,2017.0,MA Chidambaram Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,130.0,9.0,6.5,131.0,6,6.55,Kolkata Knight Riders
+81.0,2017.0,Rajiv Gandhi Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,158.0,6.0,7.9,153.0,4,7.65,
+,2017.0,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,154.0,7.0,7.7,162.0,9,8.1,Mumbai Indians
+83.0,2017.0,Eden Gardens,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,149.0,9.0,7.45,152.0,8,7.6,Kolkata Knight Riders
+84.0,2017.0,M Chinnaswamy Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,167.0,6.0,8.35,155.0,5,7.75,Mumbai Indians
+85.0,2017.0,Wankhede Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,159.0,9.0,7.95,162.0,8,8.1,Kolkata Knight Riders
+86.0,2017.0,Arun Jaitley Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,167.0,6.0,8.35,169.0,4,8.45,Mumbai Indians
+87.0,,M Chinnaswamy Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,185.0,8.0,9.25,181.0,9,9.05,Kolkata Knight Riders
+88.0,2017.0,Arun Jaitley Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,152.0,9.0,7.6,157.0,6,7.85,Royal Challengers Bangalore
+89.0,2017.0,Arun Jaitley Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,156.0,6.0,7.8,158.0,4,7.9,Delhi Capitals
+90.0,2017.0,M Chinnaswamy Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,178.0,5.0,8.9,187.0,8,9.35,Kolkata Knight Riders
+91.0,2017.0,Rajiv Gandhi Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,145.0,6.0,7.25,144.0,9,7.2,Delhi Capitals
+92.0,2017.0,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,151.0,7.0,7.55,165.0,5,8.25,Mumbai Indians
+93.0,2017.0,***,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,165.0,5.0,8.25,168.0,6,8.4,Chennai Super Kings
+94.0,2017.0,Arun Jaitley Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,159.0,6.0,7.95,153.0,6,7.65,Chennai Super Kings
+95.0,2017.0,Wankhede Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,149.0,5.0,7.45,155.0,8,7.75,Royal Challengers Bangalore
+96.0,2017.0,Rajiv Gandhi Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,135.0,8.0,6.75,145.0,5,7.25,Chennai Super Kings
+97.0,2017.0,Eden Gardens,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,166.0,7.0,8.3,180.0,10,9.0,Mumbai Indians
+98.0,2017.0,M Chinnaswamy Stadium,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,184.0,8.0,9.2,999.0,10,8.6,Mumbai Indians
+99.0,2017.0,Wankhede Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,174.0,6.0,8.7,178.0,8,8.9,Kolkata Knight Riders
+100.0,2017.0,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,143.0,4.0,7.15,149.0,6,7.45,Delhi Capitals
+101.0,2018.0,M Chinnaswamy Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,158.0,7.0,7.9,178.0,4,8.9,Mumbai Indians
+102.0,2018.0,Eden Gardens,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,162.0,9.0,8.1,174.0,5,8.7,Chennai Super Kings
+103.0,2018.0,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,175.0,6.0,8.75,183.0,4,9.15,Mumbai Indians
+104.0,2018.0,M Chinnaswamy Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,154.0,4.0,7.7,152.0,5,7.6,Kolkata Knight Riders
+105.0,2018.0,M Chinnaswamy Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,999.0,9.0,8.75,176.0,6,8.8,Mumbai Indians
+106.0,2018.0,M Chinnaswamy Stadium,Mumbai Indians,N/A,Sunrisers Hyderabad,bat,164.0,9.0,8.2,150.0,8,7.5,Mumbai Indians
+107.0,2018.0,M Chinnaswamy Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,165.0,9.0,8.25,152.0,9,7.6,Chennai Super Kings
+108.0,2018.0,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,153.0,5.0,7.65,148.0,8,7.4,Royal Challengers Bangalore
+109.0,2018.0,Arun Jaitley Stadium,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,159.0,5.0,7.95,172.0,5,,Chennai Super Kings
+110.0,2018.0,Eden Gardens,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,153.0,5.0,7.65,159.0,5,7.95,Chennai Super Kings
+111.0,2018.0,Rajiv Gandhi Stadium,,Delhi Capitals,Kolkata Knight Riders,field,153.0,6.0,7.65,152.0,9,7.6,Kolkata Knight Riders
+112.0,2018.0,Arun Jaitley Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,151.0,5.0,7.55,152.0,9,7.6,Mumbai Indians
+113.0,2018.0,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,144.0,7.0,7.2,162.0,4,8.1,Mumbai Indians
+114.0,2018.0,Rajiv Gandhi Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,166.0,4.0,8.3,154.0,5,7.7,Chennai Super Kings
+115.0,2018.0,M Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,161.0,5.0,8.05,162.0,10,8.1,Kolkata Knight Riders
+116.0,2018.0,M Chinnaswamy Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,172.0,8.0,8.6,179.0,9,8.95,Mumbai Indians
+117.0,2018.0,Wankhede Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,153.0,5.0,7.65,166.0,7,8.3,Mumbai Indians
+118.0,2018.0,Eden Gardens,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,165.0,9.0,5000.0,158.0,7,7.9,Chennai Super Kings
+119.0,2018.0,,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,160.0,7.0,8.0,166.0,9,8.3,N/A
+120.0,2018.0,MA Chidambaram Stadium,Royal Challengers Bangalore,,Royal Challengers Bangalore,bat,138.0,7.0,6.9,136.0,9,6.8,Royal Challengers Bangalore
+121.0,2018.0,Arun Jaitley Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,157.0,9.0,7.85,160.0,7,8.0,Kolkata Knight Riders
+122.0,2018.0,M Chinnaswamy Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,163.0,8.0,8.15,175.0,10,8.75,Chennai Super Kings
+123.0,2018.0,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,149.0,4.0,7.45,143.0,6,7.15,Chennai Super Kings
+124.0,2018.0,Wankhede Stadium,Delhi Capitals,Chennai Super Kings,,field,153.0,9.0,7.65,164.0,8,8.2,Chennai Super Kings
+125.0,2018.0,M Chinnaswamy Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,180.0,9.0,9.0,195.0,9,9.75,Chennai Super Kings
+126.0,2018.0,Eden Gardens,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,156.0,4.0,7.8,162.0,8,8.1,Kolkata Knight Riders
+127.0,2018.0,MA Chidambaram Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,169.0,8.0,8.45,161.0,5,8.05,Mumbai Indians
+128.0,2018.0,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,145.0,5.0,7.25,144.0,9,7.2,Royal Challengers Bangalore
+129.0,2018.0,Arun Jaitley Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,151.0,6.0,7.55,157.0,8,7.85,Kolkata Knight Riders
+130.0,2018.0,M Chinnaswamy Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,195.0,8.0,9.75,193.0,6,9.65,Mumbai Indians
+131.0,2018.0,MA Chidambaram Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,147.0,5.0,7.35,150.0,8,7.5,Royal Challengers Bangalore
+132.0,2018.0,Eden Gardens,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,147.0,7.0,7.35,152.0,8,7.6,Chennai Super Kings
+133.0,2018.0,Eden Gardens,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,168.0,9.0,8.4,158.0,5,7.9,Chennai Super Kings
+134.0,2018.0,M Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,198.0,9.0,9.9,189.0,9,9.45,Mumbai Indians
+135.0,2018.0,Eden Gardens,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,151.0,5.0,7.55,167.0,7,8.35,Chennai Super Kings
+136.0,2018.0,Wankhede Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,173.0,6.0,8.65,180.0,4,9.0,Royal Challengers Bangalore
+137.0,2018.0,MA Chidambaram Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,141.0,6.0,7.05,140.0,5,7.0,Delhi Capitals
+138.0,2018.0,Rajiv Gandhi Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,140.0,8.0,7.0,146.0,9,7.3,Chennai Super Kings
+139.0,2018.0,Eden Gardens,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,168.0,7.0,8.4,171.0,7,8.55,Kolkata Knight Riders
+140.0,2018.0,Rajiv Gandhi Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,153.0,5.0,7.65,166.0,9,8.3,Mumbai Indians
+141.0,2018.0,Arun Jaitley Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,,8.0,8.3,153.0,9,7.65,Mumbai Indians
+142.0,2018.0,Eden Gardens,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,175.0,9.0,8.75,169.0,10,8.45,Chennai Super Kings
+143.0,2018.0,Wankhede Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,187.0,4.0,9.35,189.0,7,9.45,Mumbai Indians
+144.0,2018.0,Rajiv Gandhi Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,155.0,7.0,7.75,169.0,10,8.45,Chennai Super Kings
+145.0,2018.0,Rajiv Gandhi Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,144.0,9.0,7.2,134.0,9,6.7,Chennai Super Kings
+146.0,2018.0,Rajiv Gandhi Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,156.0,6.0,7.8,158.0,5,7.9,Kolkata Knight Riders
+147.0,2018.0,MA Chidambaram Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,153.0,9.0,7.65,150.0,10,7.5,Royal Challengers Bangalore
+148.0,2018.0,MA Chidambaram Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,999.0,9.0,7.35,158.0,8,7.9,Mumbai Indians
+149.0,2018.0,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,141.0,7.0,7.05,152.0,4,7.6,Mumbai Indians
+150.0,2018.0,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,171.0,8.0,8.55,183.0,7,9.15,Mumbai Indians
+151.0,2019.0,Wankhede Stadium,Royal Challengers Bangalore,***,Kolkata Knight Riders,bat,157.0,6.0,7.85,154.0,7,7.7,Royal Challengers Bangalore
+152.0,2019.0,MA Chidambaram Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,143.0,5.0,7.15,142.0,10,7.1,Delhi Capitals
+153.0,2019.0,Rajiv Gandhi Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,163.0,5.0,8.15,171.0,4,8.55,Mumbai Indians
+154.0,2019.0,Eden Gardens,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,170.0,5.0,8.5,160.0,4,8.0,Chennai Super Kings
+,2019.0,Arun Jaitley Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,143.0,6.0,7.15,153.0,10,7.65,Royal Challengers Bangalore
+156.0,2019.0,MA Chidambaram Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,138.0,7.0,6.9,132.0,8,6.6,Royal Challengers Bangalore
+157.0,2019.0,Wankhede Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,156.0,4.0,7.8,169.0,7,8.45,Chennai Super Kings
+158.0,,Wankhede Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,159.0,8.0,7.95,148.0,8,7.4,Chennai Super Kings
+159.0,2019.0,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,173.0,4.0,8.65,166.0,10,8.3,Mumbai Indians
+160.0,2019.0,Wankhede Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,152.0,9.0,7.6,153.0,4,7.65,Kolkata Knight Riders
+161.0,2019.0,M Chinnaswamy Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,182.0,9.0,9.1,180.0,10,,Mumbai Indians
+162.0,2019.0,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,170.0,8.0,8.5,167.0,10,8.35,Kolkata Knight Riders
+163.0,2019.0,Rajiv Gandhi Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,158.0,5.0,7.9,146.0,4,7.3,Mumbai Indians
+164.0,2019.0,Wankhede Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,161.0,7.0,8.05,156.0,7,7.8,Chennai Super Kings
+165.0,2019.0,MA Chidambaram Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,155.0,4.0,7.75,156.0,5,7.8,Kolkata Knight Riders
+166.0,2019.0,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,160.0,5.0,8.0,154.0,7,7.7,Royal Challengers Bangalore
+167.0,2019.0,M Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,,5.0,7.6,,10,7.7,Kolkata Knight Riders
+168.0,2019.0,MA Chidambaram Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,153.0,4.0,7.65,156.0,5,7.8,Sunrisers Hyderabad
+169.0,2019.0,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,146.0,8.0,7.3,147.0,6,7.35,
+170.0,2019.0,MA Chidambaram Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,149.0,4.0,7.45,165.0,8,8.25,Mumbai Indians
+171.0,2019.0,Arun Jaitley Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,142.0,-100.0,7.1,148.0,7,7.4,Chennai Super Kings
+172.0,2019.0,M Chinnaswamy Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,191.0,9.0,9.55,175.0,4,8.75,Mumbai Indians
+173.0,2019.0,M Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,193.0,8.0,9.65,184.0,8,9.2,Mumbai Indians
+174.0,2019.0,Eden Gardens,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,141.0,7.0,7.05,151.0,6,7.55,Chennai Super Kings
+175.0,2019.0,***,Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,168.0,7.0,8.4,155.0,10,7.75,Mumbai Indians
+176.0,2019.0,Wankhede Stadium,Mumbai Indians,,Mumbai Indians,field,184.0,8.0,9.2,170.0,7,8.5,Mumbai Indians
+177.0,2019.0,M Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bangalore,--,bat,187.0,6.0,9.35,180.0,6,9.0,Chennai Super Kings
+178.0,2019.0,Wankhede Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,188.0,6.0,9.4,196.0,4,9.8,Mumbai Indians
+179.0,2019.0,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,154.0,9.0,7.7,148.0,5,7.4,Mumbai Indians
+180.0,2019.0,M Chinnaswamy Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,187.0,9.0,9.35,173.0,8,8.65,Chennai Super Kings
+181.0,2019.0,Wankhede Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,174.0,9.0,8.7,179.0,10,8.95,Royal Challengers Bangalore
+,2019.0,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,160.0,6.0,8.0,168.0,4,8.4,Mumbai Indians
+183.0,2019.0,M Chinnaswamy Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,185.0,8.0,9.25,183.0,10,9.15,Kolkata Knight Riders
+184.0,2019.0,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,153.0,7.0,7.65,142.0,5,7.1,Chennai Super Kings
+185.0,2019.0,Wankhede Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,170.0,7.0,8.5,184.0,10,9.2,Chennai Super Kings
+186.0,2019.0,Wankhede Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,173.0,7.0,8.65,169.0,8,-100.0,Royal Challengers Bangalore
+187.0,2019.0,Arun Jaitley Stadium,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,144.0,9.0,7.2,140.0,10,7.0,Royal Challengers Bangalore
+188.0,2019.0,Rajiv Gandhi Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,150.0,8.0,7.5,154.0,9,7.7,Royal Challengers Bangalore
+189.0,2019.0,Wankhede Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,159.0,9.0,7.95,161.0,5,8.05,Kolkata Knight Riders
+190.0,2019.0,MA Chidambaram Stadium,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,156.0,7.0,7.8,151.0,8,7.55,Royal Challengers Bangalore
+191.0,2019.0,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,159.0,9.0,7.95,158.0,9,7.9,Royal Challengers Bangalore
+192.0,2019.0,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,188.0,5.0,9.4,179.0,6,8.95,Mumbai Indians
+193.0,2019.0,Wankhede Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,,4.0,7.6,149.0,6,7.45,Kolkata Knight Riders
+194.0,2019.0,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,191.0,5.0,9.55,179.0,9,8.95,Mumbai Indians
+195.0,2019.0,MA Chidambaram Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,166.0,8.0,8.3,155.0,9,7.75,Mumbai Indians
+196.0,2019.0,Eden Gardens,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,154.0,8.0,7.7,155.0,10,7.75,Kolkata Knight Riders
+197.0,2019.0,Eden Gardens,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,157.0,7.0,7.85,158.0,4,7.9,Mumbai Indians
+198.0,2019.0,Wankhede Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,166.0,9.0,8.3,180.0,5,9.0,Chennai Super Kings
+199.0,2019.0,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,176.0,8.0,8.8,173.0,9,8.65,Mumbai Indians
+200.0,2019.0,Arun Jaitley Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,161.0,5.0,8.05,163.0,10,8.15,Kolkata Knight Riders
+201.0,2020.0,Rajiv Gandhi Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,149.0,7.0,7.45,144.0,8,7.2,Chennai Super Kings
+202.0,2020.0,MA Chidambaram Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,143.0,4.0,7.15,149.0,9,7.45,Royal Challengers Bangalore
+203.0,2020.0,Arun Jaitley Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,149.0,9.0,7.45,165.0,4,8.25,Chennai Super Kings
+204.0,2020.0,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,176.0,7.0,8.8,185.0,9,9.25,Mumbai Indians
+205.0,2020.0,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,183.0,5.0,9.15,174.0,10,8.7,Mumbai Indians
+206.0,2020.0,MA Chidambaram Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,133.0,7.0,6.65,134.0,5,6.7,Delhi Capitals
+207.0,2020.0,Rajiv Gandhi Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,147.0,9.0,7.35,145.0,10,7.25,Royal Challengers Bangalore
+208.0,,Arun Jaitley Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,151.0,5.0,7.55,154.0,5000,7.7,Chennai Super Kings
+209.0,2020.0,Eden Gardens,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,153.0,8.0,7.65,155.0,7,7.75,Mumbai Indians
+210.0,2020.0,Rajiv Gandhi Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,160.0,8.0,8.0,168.0,9,8.4,Royal Challengers Bangalore
+211.0,2020.0,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,156.0,7.0,7.8,159.0,5,7.95,Royal Challengers Bangalore
+212.0,2020.0,Wankhede Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,165.0,9.0,8.25,167.0,9,8.35,Delhi Capitals
+213.0,2020.0,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,157.0,7.0,7.85,170.0,4,8.5,Mumbai Indians
+214.0,2020.0,Wankhede Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,173.0,6.0,8.65,178.0,8,,Royal Challengers Bangalore
+215.0,2020.0,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,149.0,6.0,7.45,163.0,7,,Mumbai Indians
+216.0,2020.0,Rajiv Gandhi Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,168.0,5.0,8.4,158.0,4,7.9,Mumbai Indians
+217.0,2020.0,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,167.0,,8.35,153.0,10,7.65,Mumbai Indians
+218.0,2020.0,N/A,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,159.0,9.0,7.95,148.0,7,7.4,Mumbai Indians
+219.0,2020.0,Rajiv Gandhi Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,140.0,4.0,7.0,152.0,6,7.6,Mumbai Indians
+220.0,2020.0,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,151.0,6.0,7.55,160.0,6,8.0,Chennai Super Kings
+221.0,2020.0,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,181.0,5.0,9.05,168.0,4,8.4,Mumbai Indians
+222.0,2020.0,Wankhede Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,180.0,6.0,,178.0,8,8.9,Royal Challengers Bangalore
+223.0,2020.0,Rajiv Gandhi Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,145.0,9.0,7.25,152.0,4,7.6,Mumbai Indians
+224.0,2020.0,Rajiv Gandhi Stadium,Chennai Super Kings,,Sunrisers Hyderabad,field,156.0,9.0,7.8,148.0,7,7.4,Chennai Super Kings
+225.0,2020.0,MA Chidambaram Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,152.0,9.0,7.6,158.0,10,7.9,Chennai Super Kings
+226.0,2020.0,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,146.0,5.0,7.3,145.0,9,7.25,Royal Challengers Bangalore
+227.0,2020.0,Arun Jaitley Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,152.0,5.0,7.6,159.0,9,7.95,Royal Challengers Bangalore
+228.0,2020.0,Eden Gardens,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,143.0,6.0,7.15,141.0,4,7.05,Kolkata Knight Riders
+229.0,2020.0,Arun Jaitley Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,164.0,7.0,8.2,181.0,6,9.05,Chennai Super Kings
+230.0,2020.0,Eden Gardens,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,170.0,6.0,8.5,160.0,4,8.0,Chennai Super Kings
+231.0,2020.0,M Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,172.0,6.0,8.6,179.0,8,8.95,Kolkata Knight Riders
+232.0,2020.0,Eden Gardens,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,156.0,9.0,7.8,162.0,7,8.1,Chennai Super Kings
+233.0,2020.0,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,145.0,7.0,7.25,154.0,6,7.7,Chennai Super Kings
+234.0,2020.0,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,173.0,6.0,8.65,161.0,5,8.05,Mumbai Indians
+235.0,2020.0,Arun Jaitley Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,156.0,6.0,7.8,145.0,10,7.25,Chennai Super Kings
+236.0,2020.0,Arun Jaitley Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,147.0,6.0,7.35,135.0,7,6.75,Mumbai Indians
+237.0,2020.0,Eden Gardens,,Kolkata Knight Riders,Royal Challengers Bangalore,field,162.0,5.0,8.1,158.0,6,7.9,Royal Challengers Bangalore
+238.0,2020.0,Wankhede Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,163.0,8.0,8.15,157.0,4,7.85,Royal Challengers Bangalore
+239.0,2020.0,Arun Jaitley Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,172.0,6.0,8.6,159.0,5,7.95,Mumbai Indians
+240.0,2020.0,M Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,176.0,4.0,8.8,169.0,7,,Chennai Super Kings
+241.0,2020.0,M Chinnaswamy Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,188.0,5.0,9.4,190.0,10,9.5,Mumbai Indians
+242.0,2020.0,MA Chidambaram Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,151.0,4.0,7.55,159.0,6,7.95,Royal Challengers Bangalore
+243.0,2020.0,Arun Jaitley Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,138.0,7.0,6.9,141.0,4,7.05,Royal Challengers Bangalore
+244.0,2020.0,Arun Jaitley Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,178.0,4.0,8.9,181.0,8,9.05,Chennai Super Kings
+245.0,2020.0,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,unknown,bat,157.0,-100.0,7.85,164.0,5,8.2,Mumbai Indians
+246.0,2020.0,M Chinnaswamy Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,169.0,6.0,8.45,167.0,4,8.35,Kolkata Knight Riders
+247.0,2020.0,Arun Jaitley Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,158.0,6.0,7.9,162.0,7,8.1,Royal Challengers Bangalore
+248.0,2020.0,N/A,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,137.0,5.0,6.85,139.0,7,6.95,Sunrisers Hyderabad
+249.0,2020.0,Eden Gardens,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,159.0,8.0,7.95,152.0,5,7.6,Mumbai Indians
+250.0,2020.0,Arun Jaitley Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,145.0,9.0,7.25,143.0,9,7.15,Royal Challengers Bangalore
+251.0,2021.0,M Chinnaswamy Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,178.0,9.0,8.9,168.0,6,8.4,Chennai Super Kings
+252.0,2021.0,Rajiv Gandhi Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,150.0,5.0,7.5,151.0,8,7.55,Mumbai Indians
+253.0,2021.0,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,179.0,7.0,8.95,177.0,9,8.85,Mumbai Indians
+254.0,2021.0,Wankhede Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,154.0,7.0,7.7,165.0,6,8.25,Mumbai Indians
+255.0,2021.0,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,--,142.0,8.0,-100.0,155.0,7,7.75,Mumbai Indians
+256.0,2021.0,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,162.0,5.0,8.1,170.0,7,8.5,Mumbai Indians
+257.0,2021.0,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,156.0,8.0,7.8,147.0,8,7.35,Chennai Super Kings
+258.0,2021.0,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,140.0,5.0,7.0,142.0,8,7.1,Mumbai Indians
+259.0,2021.0,Arun Jaitley Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,145.0,6.0,7.25,142.0,4,7.1,Royal Challengers Bangalore
+260.0,2021.0,Arun Jaitley Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,163.0,4.0,8.15,154.0,5,7.7,Mumbai Indians
+261.0,2021.0,MA Chidambaram Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,166.0,5.0,8.3,151.0,8,7.55,Mumbai Indians
+262.0,2021.0,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,179.0,4.0,8.95,186.0,8,9.3,Chennai Super Kings
+263.0,2021.0,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,174.0,8.0,8.7,168.0,6,8.4,Royal Challengers Bangalore
+264.0,2021.0,Wankhede Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,148.0,5.0,7.4,149.0,7,7.45,Delhi Capitals
+265.0,2021.0,M Chinnaswamy Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,188.0,4.0,9.4,190.0,5,9.5,Mumbai Indians
+266.0,,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,170.0,7.0,8.5,164.0,10,8.2,Royal Challengers Bangalore
+267.0,2021.0,Arun Jaitley Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,160.0,8.0,8.0,157.0,5,7.85,Kolkata Knight Riders
+268.0,2021.0,Wankhede Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,162.0,5.0,8.1,168.0,8,8.4,Royal Challengers Bangalore
+269.0,2021.0,Eden Gardens,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,143.0,9.0,7.15,155.0,8,7.75,Mumbai Indians
+270.0,2021.0,MA Chidambaram Stadium,Royal Challengers Bangalore,Delhi Capitals,,field,159.0,6.0,,159.0,10,7.95,Delhi Capitals
+271.0,2021.0,Wankhede Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,159.0,9.0,,167.0,9,8.35,Kolkata Knight Riders
+272.0,2021.0,MA Chidambaram Stadium,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,138.0,6.0,6.9,138.0,7,6.9,Delhi Capitals
+273.0,2021.0,Eden Gardens,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,156.0,6.0,5000.0,155.0,7,7.75,Kolkata Knight Riders
+274.0,2021.0,MA Chidambaram Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,999.0,9.0,7.6,163.0,8,8.15,Chennai Super Kings
+275.0,2021.0,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,175.0,9.0,8.75,165.0,8,8.25,Mumbai Indians
+276.0,2021.0,Eden Gardens,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,168.0,5.0,8.4,174.0,5,8.7,Royal Challengers Bangalore
+277.0,2021.0,MA Chidambaram Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,136.0,5.0,6.8,146.0,4,7.3,Royal Challengers Bangalore
+278.0,2021.0,Rajiv Gandhi Stadium,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,153.0,9.0,7.65,149.0,4,7.45,Royal Challengers Bangalore
+279.0,2021.0,,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,170.0,7.0,8.5,158.0,10,7.9,Mumbai Indians
+280.0,2021.0,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,177.0,8.0,8.85,162.0,10,8.1,Mumbai Indians
+281.0,2021.0,MA Chidambaram Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,133.0,5.0,6.65,138.0,10,6.9,Royal Challengers Bangalore
+282.0,2021.0,MA Chidambaram Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,141.0,6.0,7.05,148.0,10,7.4,Mumbai Indians
+283.0,2021.0,Rajiv Gandhi Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,159.0,8.0,7.95,168.0,6,8.4,Chennai Super Kings
+284.0,2021.0,Arun Jaitley Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,136.0,8.0,6.8,141.0,7,7.05,Kolkata Knight Riders
+285.0,2021.0,Arun Jaitley Stadium,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,147.0,6.0,7.35,143.0,6,7.15,Royal Challengers Bangalore
+286.0,2021.0,Arun Jaitley Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,148.0,5.0,7.4,142.0,7,7.1,Chennai Super Kings
+287.0,2021.0,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,157.0,8.0,7.85,165.0,6,8.25,Mumbai Indians
+288.0,2021.0,,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,161.0,5.0,8.05,163.0,9,8.15,Kolkata Knight Riders
+289.0,2021.0,M Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,188.0,9.0,9.4,181.0,9,9.05,Chennai Super Kings
+290.0,2021.0,Eden Gardens,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,168.0,7.0,8.4,175.0,4,8.75,Kolkata Knight Riders
+291.0,2021.0,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,144.0,4.0,7.2,153.0,8,7.65,Chennai Super Kings
+292.0,2021.0,Wankhede Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,,154.0,6.0,7.7,157.0,7,7.85,Delhi Capitals
+293.0,2021.0,Rajiv Gandhi Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,145.0,5.0,7.25,134.0,4,6.7,Mumbai Indians
+294.0,2021.0,Rajiv Gandhi Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,148.0,5.0,7.4,156.0,5,7.8,Royal Challengers Bangalore
+295.0,2021.0,Arun Jaitley Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,170.0,7.0,8.5,159.0,8,7.95,Chennai Super Kings
+296.0,2021.0,Wankhede Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,174.0,6.0,8.7,170.0,10,8.5,Royal Challengers Bangalore
+297.0,2021.0,Eden Gardens,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,169.0,7.0,8.45,183.0,8,9.15,Mumbai Indians
+298.0,2021.0,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,146.0,5.0,7.3,143.0,4,7.15,Royal Challengers Bangalore
+299.0,2021.0,Arun Jaitley Stadium,,Kolkata Knight Riders,Kolkata Knight Riders,bat,154.0,8.0,7.7,151.0,10,7.55,Royal Challengers Bangalore
+300.0,2021.0,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,150.0,5.0,7.5,153.0,5,7.65,Kolkata Knight Riders
+301.0,2022.0,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,164.0,7.0,8.2,179.0,4,8.95,Mumbai Indians
+302.0,2022.0,Wankhede Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,167.0,6.0,8.35,168.0,9,8.4,Kolkata Knight Riders
+303.0,2022.0,MA Chidambaram Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,138.0,4.0,6.9,141.0,4,7.05,Royal Challengers Bangalore
+304.0,2022.0,MA Chidambaram Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,140.0,5.0,7.0,156.0,9,7.8,Mumbai Indians
+305.0,2022.0,Arun Jaitley Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,168.0,6.0,8.4,153.0,5000,7.65,Mumbai Indians
+306.0,2022.0,M Chinnaswamy Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,,8.0,8.4,166.0,6,8.3,Kolkata Knight Riders
+307.0,2022.0,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,153.0,6.0,7.65,151.0,4,7.55,Chennai Super Kings
+308.0,2022.0,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,158.0,8.0,7.9,166.0,6,8.3,Mumbai Indians
+309.0,2022.0,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,164.0,5.0,8.2,170.0,9,8.5,Chennai Super Kings
+310.0,2022.0,Eden Gardens,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,146.0,5.0,7.3,159.0,4,7.95,Chennai Super Kings
+311.0,2022.0,Eden Gardens,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,174.0,,8.7,180.0,5,9.0,Chennai Super Kings
+312.0,2022.0,Arun Jaitley Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,162.0,7.0,8.1,164.0,10,8.2,Delhi Capitals
+313.0,2022.0,M Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,163.0,7.0,8.15,157.0,4,7.85,Chennai Super Kings
+314.0,2022.0,M Chinnaswamy Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,196.0,8.0,9.8,183.0,5,9.15,Chennai Super Kings
+315.0,2022.0,M Chinnaswamy Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,171.0,5.0,8.55,187.0,4,9.35,Mumbai Indians
+316.0,2022.0,Wankhede Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,170.0,8.0,8.5,168.0,5,8.4,Royal Challengers Bangalore
+317.0,2022.0,Arun Jaitley Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,162.0,6.0,8.1,178.0,9,8.9,Mumbai Indians
+318.0,2022.0,Arun Jaitley Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,161.0,9.0,8.05,173.0,7,8.65,Mumbai Indians
+319.0,2022.0,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,178.0,7.0,8.9,190.0,10,9.5,Chennai Super Kings
+320.0,2022.0,Arun Jaitley Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,148.0,4.0,7.4,149.0,4,7.45,Kolkata Knight Riders
+321.0,2022.0,Rajiv Gandhi Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,153.0,9.0,7.65,156.0,9,7.8,Royal Challengers Bangalore
+322.0,2022.0,Wankhede Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,150.0,7.0,7.5,155.0,5,7.75,Royal Challengers Bangalore
+323.0,2022.0,Rajiv Gandhi Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,155.0,6.0,7.75,150.0,5,7.5,Chennai Super Kings
+324.0,2022.0,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,174.0,7.0,8.7,167.0,10,8.35,Mumbai Indians
+325.0,2022.0,Arun Jaitley Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,173.0,4.0,8.65,164.0,5,8.2,Chennai Super Kings
+326.0,2022.0,MA Chidambaram Stadium,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,137.0,7.0,6.85,153.0,10,7.65,Chennai Super Kings
+327.0,2022.0,Wankhede Stadium,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,168.0,7.0,8.4,162.0,10,8.1,Royal Challengers Bangalore
+328.0,2022.0,MA Chidambaram Stadium,Sunrisers Hyderabad,,Delhi Capitals,field,135.0,7.0,6.75,140.0,5,7.0,Delhi Capitals
+329.0,2022.0,Wankhede Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,170.0,9.0,8.5,169.0,10,8.45,Kolkata Knight Riders
+330.0,2022.0,Wankhede Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,164.0,6.0,8.2,171.0,10,8.55,Chennai Super Kings
+331.0,2022.0,MA Chidambaram Stadium,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,156.0,8.0,7.8,146.0,9,7.3,Mumbai Indians
+332.0,2022.0,M Chinnaswamy Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,174.0,4.0,8.7,181.0,10,9.05,Mumbai Indians
+333.0,2022.0,Wankhede Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,154.0,4.0,7.7,160.0,10,8.0,Chennai Super Kings
+334.0,2022.0,Eden Gardens,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,145.0,7.0,7.25,147.0,8,7.35,Delhi Capitals
+335.0,2022.0,Eden Gardens,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,167.0,8.0,8.35,165.0,4,8.25,Kolkata Knight Riders
+336.0,2022.0,M Chinnaswamy Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,157.0,8.0,7.85,154.0,8,7.7,Kolkata Knight Riders
+337.0,2022.0,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,185.0,8.0,9.25,195.0,7,9.75,Mumbai Indians
+338.0,2022.0,Wankhede Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,,4.0,8.1,166.0,7,8.3,Sunrisers Hyderabad
+339.0,2022.0,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,153.0,6.0,7.65,143.0,8,7.15,Mumbai Indians
+340.0,2022.0,M Chinnaswamy Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,180.0,9.0,9.0,182.0,7,9.1,Mumbai Indians
+341.0,2022.0,M Chinnaswamy Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,180.0,8.0,9.0,183.0,8,9.15,Chennai Super Kings
+342.0,2022.0,M Chinnaswamy Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,167.0,9.0,8.35,157.0,10,7.85,Chennai Super Kings
+343.0,2022.0,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,***,160.0,5.0,8.0,150.0,7,7.5,Mumbai Indians
+344.0,2022.0,M Chinnaswamy Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,195.0,6.0,9.75,193.0,10,9.65,Mumbai Indians
+345.0,2022.0,Eden Gardens,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,148.0,8.0,7.4,158.0,9,7.9,Chennai Super Kings
+346.0,2022.0,Wankhede Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,163.0,8.0,8.15,170.0,4,8.5,Royal Challengers Bangalore
+347.0,2022.0,Eden Gardens,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,181.0,4.0,9.05,166.0,7,8.3,Mumbai Indians
+348.0,2022.0,Arun Jaitley Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,138.0,6.0,6.9,148.0,8,7.4,Royal Challengers Bangalore
+349.0,2022.0,MA Chidambaram Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,169.0,5.0,8.45,154.0,4,7.7,Mumbai Indians
+350.0,2022.0,Rajiv Gandhi Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,160.0,8.0,8.0,157.0,7,7.85,Royal Challengers Bangalore
+351.0,2023.0,Wankhede Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,175.0,9.0,8.75,177.0,10,8.85,Sunrisers Hyderabad
+352.0,2023.0,MA Chidambaram Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,134.0,8.0,6.7,141.0,5,7.05,Mumbai Indians
+353.0,2023.0,MA Chidambaram Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,137.0,5.0,6.85,140.0,7,7.0,Royal Challengers Bangalore
+354.0,2023.0,M Chinnaswamy Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,171.0,7.0,8.55,167.0,5,8.35,Kolkata Knight Riders
+355.0,2023.0,Wankhede Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,162.0,7.0,8.1,166.0,10,8.3,Sunrisers Hyderabad
+356.0,2023.0,Rajiv Gandhi Stadium,Royal Challengers Bangalore,,Delhi Capitals,field,137.0,7.0,6.85,137.0,9,6.85,Delhi Capitals
+357.0,2023.0,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,158.0,5.0,7.9,152.0,4,7.6,Royal Challengers Bangalore
+358.0,2023.0,Arun Jaitley Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,157.0,6.0,7.85,169.0,10,8.45,Mumbai Indians
+359.0,2023.0,Arun Jaitley Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,167.0,6.0,8.35,176.0,10,8.8,Mumbai Indians
+360.0,2023.0,Wankhede Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,165.0,4.0,8.25,172.0,9,8.6,Royal Challengers Bangalore
+361.0,2023.0,MA Chidambaram Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,151.0,4.0,7.55,145.0,5,7.25,Royal Challengers Bangalore
+362.0,2023.0,M Chinnaswamy Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,161.0,6.0,8.05,173.0,8,8.65,Mumbai Indians
+363.0,2023.0,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,152.0,6.0,7.6,163.0,8,8.15,Mumbai Indians
+364.0,2023.0,M Chinnaswamy Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,157.0,6.0,7.85,165.0,4,8.25,Kolkata Knight Riders
+365.0,2023.0,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,180.0,8.0,9.0,167.0,7,8.35,Mumbai Indians
+366.0,2023.0,M Chinnaswamy Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,150.0,5.0,7.5,156.0,5,7.8,Delhi Capitals
+367.0,2023.0,?,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,151.0,4.0,7.55,149.0,9,5000.0,Delhi Capitals
+368.0,2023.0,Eden Gardens,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,167.0,6.0,8.35,160.0,6,8.0,Royal Challengers Bangalore
+369.0,2023.0,Rajiv Gandhi Stadium,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,149.0,9.0,7.45,159.0,10,7.95,Chennai Super Kings
+370.0,2023.0,Arun Jaitley Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,145.0,9.0,7.25,148.0,6,7.4,Kolkata Knight Riders
+371.0,2023.0,Rajiv Gandhi Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,137.0,7.0,6.85,138.0,5,6.9,Kolkata Knight Riders
+372.0,2023.0,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,183.0,4.0,9.15,198.0,8,9.9,Mumbai Indians
+373.0,2023.0,Eden Gardens,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,176.0,6.0,8.8,163.0,7,8.15,Chennai Super Kings
+374.0,2023.0,MA Chidambaram Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,135.0,4.0,6.75,140.0,6,7.0,Royal Challengers Bangalore
+375.0,2023.0,Rajiv Gandhi Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,167.0,6.0,8.35,154.0,6,7.7,Mumbai Indians
+376.0,2023.0,M Chinnaswamy Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,162.0,7.0,8.1,153.0,8,7.65,Chennai Super Kings
+377.0,2023.0,Rajiv Gandhi Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,150.0,5.0,7.5,149.0,5,7.45,Mumbai Indians
+378.0,2023.0,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,184.0,4.0,9.2,187.0,10,9.35,Royal Challengers Bangalore
+379.0,2023.0,M Chinnaswamy Stadium,unknown,Chennai Super Kings,Chennai Super Kings,field,178.0,4.0,8.9,190.0,6,9.5,Chennai Super Kings
+380.0,2023.0,Rajiv Gandhi Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,153.0,4.0,7.65,152.0,10,7.6,Kolkata Knight Riders
+381.0,2023.0,Arun Jaitley Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,142.0,7.0,7.1,154.0,6,7.7,Mumbai Indians
+382.0,2023.0,Arun Jaitley Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,,162.0,6.0,8.1,166.0,6,8.3,Kolkata Knight Riders
+383.0,2023.0,MA Chidambaram Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,135.0,7.0,6.75,140.0,8,7.0,Royal Challengers Bangalore
+384.0,2023.0,M Chinnaswamy Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,156.0,4.0,7.8,158.0,4,7.9,Delhi Capitals
+385.0,2023.0,Rajiv Gandhi Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,165.0,9.0,8.25,154.0,6,7.7,Chennai Super Kings
+386.0,2023.0,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,169.0,9.0,8.45,163.0,10,8.15,Royal Challengers Bangalore
+,2023.0,Rajiv Gandhi Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,143.0,8.0,7.15,154.0,7,7.7,Chennai Super Kings
+388.0,2023.0,***,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,150.0,9.0,7.5,151.0,6,7.55,Delhi Capitals
+389.0,2023.0,M Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,190.0,9.0,9.5,189.0,9,9.45,Chennai Super Kings
+390.0,2023.0,Eden Gardens,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,161.0,7.0,8.05,154.0,7,7.7,Royal Challengers Bangalore
+391.0,2023.0,Rajiv Gandhi Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,155.0,9.0,7.75,,5,7.7,Delhi Capitals
+392.0,2023.0,MA Chidambaram Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,144.0,9.0,7.2,156.0,5,7.8,Mumbai Indians
+393.0,2023.0,Wankhede Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,178.0,7.0,8.9,196.0,7,9.8,Mumbai Indians
+394.0,2023.0,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,167.0,7.0,8.35,183.0,10,9.15,Mumbai Indians
+395.0,2023.0,Eden Gardens,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,158.0,9.0,7.9,147.0,10,7.35,Chennai Super Kings
+396.0,2023.0,Arun Jaitley Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,148.0,5.0,7.4,155.0,4,7.75,Royal Challengers Bangalore
+397.0,2023.0,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,189.0,8.0,9.45,173.0,5,8.65,Mumbai Indians
+398.0,2023.0,Rajiv Gandhi Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,135.0,6.0,6.75,150.0,10,7.5,Mumbai Indians
+399.0,2023.0,Eden Gardens,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,151.0,8.0,7.55,157.0,4,7.85,Chennai Super Kings
+400.0,2023.0,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,,132.0,9.0,6.6,144.0,6,7.2,Mumbai Indians
