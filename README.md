@@ -145,7 +145,7 @@ Streamlit Cloud
 🌐 Live Application
 
 🔗 Deployed Streamlit App:
-https://iplmatch-ai-ml-prediction-3heqxuycf3usffys85dqzd.streamlit.app/
+https://iplmatch-ai-ml-prediction-z8wfgdd666bkob9annwhhu.streamlit.app/
 
 
 ---
