@@ -3,3 +3,4 @@ pandas
 numpy
 scikit-learn
 joblib
+demo link - https://iplmatch-ai-ml-prediction-3heqxuycf3usffys85dqzd.streamlit.app/
